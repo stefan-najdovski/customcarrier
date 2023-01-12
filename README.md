@@ -18,3 +18,23 @@ make package
 
 <img src="https://raw.githubusercontent.com/stefan-najdovski/customcarrier/main/screenshots/screenshot.jpg" width="200" />
 <img src="https://raw.githubusercontent.com/stefan-najdovski/customcarrier/main/screenshots/s2.jpg" width="200" />
+
+---
+
+# If you want to make your own package tweak
+```
+mkdir test
+cd test
+ ~/theos/bin/nic.pl
+```
+- follow instructions
+- than open Tweaks.x and enjoy
+
+after that just use make :)
+``
+make package
+``
+or with sshed ios device
+```
+make package install
+```
