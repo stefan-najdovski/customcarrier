@@ -1,7 +1,7 @@
 # customcarrier
 
-# IOS Tweak that changes the carrier name in status bar
-- tested on ios 16.1.2 (should work on ios 15 and 14 too).
+# Demo iOS Tweak that changes the carrier name in the status bar
+- tested on ios 16.1.2 (should work on ios 15 too).
 
 # What you need
 - theos (logos), make, ldid, xz (https://theos.dev/docs/installation)
